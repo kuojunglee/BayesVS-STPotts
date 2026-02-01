@@ -1,18 +1,18 @@
-Package: BayesMGLM
+Package: BayesSTMwPoots
 
 Type: Package
 
-Title: Bayesian Multivariate Probit Linear Mixed Models for Multivariate Longitudinal Binary Data
+Title: Bayesian Spatiotemporal Model with Potts 
 
 Version: 1.0
 
 Date: 2022-12-26
 
-Author: Kuo-Jung Lee, Chanson Kim, Jae Keun Yoo, Keunbaik Lee
+Author: Kuo-Jung Leea, Tzu-Wei Yina, Ching-Lan Chengb, Hakmook Kang
 
-Maintainer: Kuo-Jung Lee kuojunglee@mail.ncku.edu.tw
+Maintainer: Kuo-Jung Lee kuojunglee@ncku.edu.tw
 
-Description: BayesMGLM has the functionality to deal with the multivariate longitudinal studies on binary outcomes that are measured repeatedly on subjects over time with drop-outs.
+Description: This package facilitates model estimation for Bayesian spatiotemporal frameworks incorporating Potts specifications and variable selection.
 
 URL: https://github.com/kuojunglee/
 
