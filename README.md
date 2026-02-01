@@ -1,3 +1,9 @@
+The data and analysis for the paper "Application of Bayesian Spatiotemporal Model with Potts to analyze incident rate in Taiwan Traffic Accidents" are available at the link below 
+
+Data: https://mybox.ncku.edu.tw/navigate/a/#/s/2966A54672DE4B919070711B09DAE8566BL
+
+and using the following package:
+
 Package: BayesSTMwPoots
 
 Type: Package
